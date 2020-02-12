@@ -25,7 +25,8 @@ Minimize the difference between these 2 groups of labels of the images.
 
 python main.py
 
-_If you are using Python2 and Python3 you should specify it in the command line as "python"  for Python2 and "python3" for Python3. But however TensorFlow libraires will not be working in a Python2 environment. _
+
+**_If you are using Python2 and Python3 you should specify it in the command line as "python"  for Python2 and "python3" for Python3. But however TensorFlow libraires will not be working in a Python2 environment. _**
 
 ©All rights reserved for: Python Machine Learning Projects
 Written by Lisa Tagliaferri, Michelle Morales, Ellie Birbeck, and
